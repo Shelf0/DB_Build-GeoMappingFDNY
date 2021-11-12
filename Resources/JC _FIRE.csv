@@ -1,0 +1,1701 @@
+Call type,Call Sub-type,Batallion 1 Total Calls,Batallion 1 Total Units Resp.,Batallion 2 Total Calls,Batallion 2 Total Units Resp.,Batallion 3 Total Calls,Batallion 3 Total Units Resp.,Batallion 4 Total Calls,Batallion 4 Total Units Resp.,Other Total Calls,Other Total Units Resp.,Week #,Year
+RESIDENTIAL,Private Dwellings,3,9,7,44,2,8,1,10,,,1,2014
+RESIDENTIAL,Apartments,2,8,5,47,1,10,2,11,,,1,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,1,2014
+RESIDENTIAL,All Other Residential,1,10,,,,,,,,,1,2014
+STRUCTURE FIRE,Public Assembly,2,8,,,,,1,10,,,1,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,1,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,2,18,,,,,,,1,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,1,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,1,2014
+STRUCTURE FIRE,Storage in Structures,,,,,1,4,1,20,,,1,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,1,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,1,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,1,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,1,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,1,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,10,,,,,,,1,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,1,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,33,53,114,124,40,43,57,59,,,1,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,1,2014
+HAZARD,Hazardous Materials,2,2,6,13,3,10,1,4,,,1,2014
+HAZARD,Other HazMat Responses,5,29,3,4,4,4,5,14,,,1,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),30,124,20,102,12,60,17,70,,,1,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,1,2014
+FALSE ALARM,Other False alarms,52,174,38,81,32,62,45,105,,,1,2014
+TRAINING,Training ,,,,,,,,,,,1,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,1,2014
+TRAINING,Other events,,,,,,,,,,,1,2014
+INSPECTION,Initial Inspections,,,,,,,,,10,,1,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,22,,1,2014
+INSPECTION,Registrations,,,,,,,,,,,1,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,2,2,,,,,,,,,1,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,1,2014
+FINES,Fines Imposed,,,,,,,,,,,1,2014
+FINES,Fines collected,,,,,,,,,,,1,2014
+RESIDENTIAL,Private Dwellings,,,3,19,6,41,1,10,,,2,2014
+RESIDENTIAL,Apartments,,,3,25,4,16,5,26,,,2,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,2,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,9,,,2,2014
+STRUCTURE FIRE,Public Assembly,1,4,,,1,13,,,,,2,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,2,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,5,,,,,,,2,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,2,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,2,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,2,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,10,,,,,,,,,2,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,2,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,40,96,101,53,58,65,72,,,2,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,2,2014
+HAZARD,Hazardous Materials,5,18,4,11,,,6,33,,,2,2014
+HAZARD,Other HazMat Responses,4,31,2,8,7,7,1,2,,,2,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),10,37,12,46,8,41,15,88,,,2,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,2,2014
+FALSE ALARM,Other False alarms,34,76,36,97,25,61,25,80,,,2,2014
+TRAINING,Training ,,,,,,,,,,,2,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,2,2014
+TRAINING,Other events,,,,,,,,,,,2,2014
+INSPECTION,Initial Inspections,,,,,,,,,44,,2,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,96,,2,2014
+INSPECTION,Registrations,,,,,,,,,,,2,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,2,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,2,2014
+FINES,Fines Imposed,,,,,,,,,,,2,2014
+FINES,Fines collected,,,,,,,,,,,2,2014
+RESIDENTIAL,Private Dwellings,,,10,84,,,1,10,,,4,2014
+RESIDENTIAL,Apartments,2,12,3,18,3,28,4,27,,,4,2014
+RESIDENTIAL,Hotels and Motels,,,,,1,22,,,,,4,2014
+RESIDENTIAL,All Other Residential,1,4,,,,,1,9,,,4,2014
+STRUCTURE FIRE,Public Assembly,,,1,7,,,,,,,4,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,4,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,4,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,1,4,,,4,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,4,2014
+STRUCTURE FIRE,Storage in Structures,,,,,1,11,,,,,4,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,4,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,,,1,2,,,4,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,1,2,,,,,4,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,4,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,4,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,10,,,,,,,,,4,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,4,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,36,41,92,98,48,60,44,53,,,4,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,4,2014
+HAZARD,Hazardous Materials,1,8,4,11,4,8,2,12,,,4,2014
+HAZARD,Other HazMat Responses,1,2,3,27,6,16,2,11,,,4,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,92,17,79,18,78,17,69,,,4,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,4,2014
+FALSE ALARM,Other False alarms,27,68,51,120,28,68,35,87,,,4,2014
+TRAINING,Training ,,,,,,,,,,,4,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,4,2014
+TRAINING,Other events,,,,,,,,,,,4,2014
+INSPECTION,Initial Inspections,,,,,,,,,22,,4,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,124,,4,2014
+INSPECTION,Registrations,,,,,,,,,,,4,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,18,18,,,,,,,,,4,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,4,2014
+FINES,Fines Imposed,,,,,,,,,,,4,2014
+FINES,Fines collected,,,,,,,,,,,4,2014
+RESIDENTIAL,Private Dwellings,1,8,,,,,,,,,5,2014
+RESIDENTIAL,Apartments,,,4,28,4,16,8,67,,,5,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,1,4,,,5,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,5,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,5,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,1,7,1,8,,,5,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,5,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,5,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,5,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,5,2014
+STRUCTURE FIRE,Other Structures,,,,,1,1,,,,,5,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,1,2,,,5,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,5,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,5,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,5,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,13,,,,,,,5,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,5,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,47,52,95,96,47,49,43,51,,,5,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,5,2014
+HAZARD,Hazardous Materials,9,49,5,12,3,11,4,21,,,5,2014
+HAZARD,Other HazMat Responses,3,13,5,24,2,12,1,1,,,5,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),12,48,21,107,8,37,17,86,,,5,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,5,2014
+FALSE ALARM,Other False alarms,38,115,39,95,33,63,25,33,,,5,2014
+TRAINING,Training ,,,,,,,,,,,5,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,5,2014
+TRAINING,Other events,,,,,,,,,,,5,2014
+INSPECTION,Initial Inspections,,,,,,,,,11,,5,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,63,,5,2014
+INSPECTION,Registrations,,,,,,,,,,,5,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,2,2,,,,,,,,,5,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,5,2014
+FINES,Fines Imposed,,,,,,,,,,,5,2014
+FINES,Fines collected,,,,,,,,,,,5,2014
+RESIDENTIAL,Private Dwellings,,,3,35,1,15,,,,,6,2014
+RESIDENTIAL,Apartments,2,14,6,68,1,4,4,34,,,6,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,1,12,,,6,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,6,2014
+STRUCTURE FIRE,Public Assembly,1,4,,,,,,,,,6,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,6,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,6,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,6,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,6,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,6,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,6,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,2,5,,,,,,,6,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,1,2,,,,,6,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,1,10,,,,,6,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,6,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,6,2014
+NON-STRUCTURE FIRE,All Other Fires,1,10,,,,,,,,,6,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,44,72,76,52,58,40,45,,,6,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,6,2014
+HAZARD,Hazardous Materials,6,50,5,21,3,6,4,25,,,6,2014
+HAZARD,Other HazMat Responses,12,48,3,20,12,38,1,1,,,6,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),14,57,11,40,13,59,14,65,,,6,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,6,2014
+FALSE ALARM,Other False alarms,23,46,28,89,33,69,32,49,,,6,2014
+TRAINING,Training ,,,,,,,,,,,6,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,6,2014
+TRAINING,Other events,,,,,,,,,,,6,2014
+INSPECTION,Initial Inspections,,,,,,,,,24,,6,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,171,,6,2014
+INSPECTION,Registrations,,,,,,,,,,,6,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,9,9,,,,,,,,,6,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,6,2014
+FINES,Fines Imposed,,,,,,,,,,,6,2014
+FINES,Fines collected,,,,,,,,,,,6,2014
+RESIDENTIAL,Private Dwellings,,,3,24,1,18,1,10,,,7,2014
+RESIDENTIAL,Apartments,5,40,1,4,4,29,5,51,,,7,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,7,2014
+RESIDENTIAL,All Other Residential,1,15,,,,,,,,,7,2014
+STRUCTURE FIRE,Public Assembly,1,4,,,,,,,,,7,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,7,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,7,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,7,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,7,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,7,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,7,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,,,1,2,,,,,7,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,1,2,,,,,7,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,7,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,7,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,7,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,7,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,33,38,97,98,36,39,42,55,,,7,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,7,2014
+HAZARD,Hazardous Materials,3,10,4,15,2,9,,,,,7,2014
+HAZARD,Other HazMat Responses,4,9,5,38,6,9,2,8,,,7,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),29,123,16,67,10,40,16,80,,,7,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,7,2014
+FALSE ALARM,Other False alarms,28,45,42,63,27,53,33,94,,,7,2014
+TRAINING,Training ,,,,,,,,,,,7,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,7,2014
+TRAINING,Other events,,,,,,,,,,,7,2014
+INSPECTION,Initial Inspections,,,,,,,,,7,,7,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,85,,7,2014
+INSPECTION,Registrations,,,,,,,,,,,7,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,7,10,,,,,,,,,7,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,7,2014
+FINES,Fines Imposed,,,,,,,,,,,7,2014
+FINES,Fines collected,,,,,,,,,,,7,2014
+RESIDENTIAL,Private Dwellings,2,9,2,31,1,9,2,19,,,8,2014
+RESIDENTIAL,Apartments,1,11,4,23,4,32,4,30,,,8,2014
+RESIDENTIAL,Hotels and Motels,2,9,,,,,,,,,8,2014
+RESIDENTIAL,All Other Residential,,,,,,,2,10,,,8,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,1,2,,,8,2014
+STRUCTURE FIRE,Schools and Colleges,,,2,14,,,,,,,8,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,8,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,8,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,8,2014
+STRUCTURE FIRE,Storage in Structures,,,1,14,,,,,,,8,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,8,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,1,2,1,6,,,,,8,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,1,14,,,,,,,8,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,8,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,8,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,8,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,8,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,44,95,97,44,54,50,54,,,8,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,8,2014
+HAZARD,Hazardous Materials,1,1,4,20,5,19,2,2,,,8,2014
+HAZARD,Other HazMat Responses,4,16,6,20,5,11,3,18,,,8,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),12,52,11,49,10,43,12,52,,,8,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,8,2014
+FALSE ALARM,Other False alarms,29,38,47,85,27,61,31,53,,,8,2014
+TRAINING,Training ,,,,,,,,,,,8,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,8,2014
+TRAINING,Other events,,,,,,,,,,,8,2014
+INSPECTION,Initial Inspections,,,,,,,,,10,,8,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,86,,8,2014
+INSPECTION,Registrations,,,,,,,,,,,8,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,6,7,,,,,,,,,8,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,8,2014
+FINES,Fines Imposed,,,,,,,,,,,8,2014
+FINES,Fines collected,,,,,,,,,,,8,2014
+RESIDENTIAL,Private Dwellings,2,5,3,26,1,10,1,10,,,9,2014
+RESIDENTIAL,Apartments,1,13,1,14,4,16,3,31,,,9,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,9,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,9,,,9,2014
+STRUCTURE FIRE,Public Assembly,1,4,1,16,,,1,29,,,9,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,1,7,,,,,9,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,3,18,,,,,,,9,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,1,4,,,9,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,9,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,9,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,2,,,,,,,,,9,2014
+NON-STRUCTURE FIRE,All Other Fires,,,1,15,,,,,,,9,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,41,42,83,85,40,40,49,52,,,9,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,9,2014
+HAZARD,Hazardous Materials,3,17,3,12,3,17,5,5,,,9,2014
+HAZARD,Other HazMat Responses,2,2,3,9,6,24,1,1,,,9,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),17,78,11,52,8,39,17,84,,,9,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,9,2014
+FALSE ALARM,Other False alarms,13,20,28,58,26,43,40,96,,,9,2014
+TRAINING,Training ,,,,,,,,,,,9,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,9,2014
+TRAINING,Other events,,,,,,,,,,,9,2014
+INSPECTION,Initial Inspections,,,,,,,,,11,,9,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,122,,9,2014
+INSPECTION,Registrations,,,,,,,,,,,9,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,12,19,,,,,,,,,9,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,9,2014
+FINES,Fines Imposed,,,,,,,,,,,9,2014
+FINES,Fines collected,,,,,,,,,,,9,2014
+RESIDENTIAL,Private Dwellings,,,2,12,2,14,1,4,,,10,2014
+RESIDENTIAL,Apartments,4,59,3,16,1,4,2,14,,,10,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,10,2014
+RESIDENTIAL,All Other Residential,1,4,1,9,,,1,16,,,10,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,1,12,,,10,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,10,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,1,8,1,4,,,10,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,10,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,10,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,10,2014
+STRUCTURE FIRE,Other Structures,,,,,1,10,,,,,10,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,10,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,10,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,10,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,10,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,10,2014
+NON-STRUCTURE FIRE,All Other Fires,,,1,11,,,,,,,10,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,41,43,86,92,34,36,46,48,,,10,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,10,2014
+HAZARD,Hazardous Materials,6,29,4,27,2,2,4,24,,,10,2014
+HAZARD,Other HazMat Responses,3,4,5,33,4,23,5,7,,,10,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),18,92,14,60,18,87,17,75,,,10,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,10,2014
+FALSE ALARM,Other False alarms,21,40,17,39,17,40,24,45,,,10,2014
+TRAINING,Training ,,,,,,,,,,,10,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,10,2014
+TRAINING,Other events,,,,,,,,,,,10,2014
+INSPECTION,Initial Inspections,,,,,,,,,38,,10,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,121,,10,2014
+INSPECTION,Registrations,,,,,,,,,,,10,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,10,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,10,2014
+FINES,Fines Imposed,,,,,,,,,,,10,2014
+FINES,Fines collected,,,,,,,,,,,10,2014
+RESIDENTIAL,Private Dwellings,,,1,4,1,4,,,,,11,2014
+RESIDENTIAL,Apartments,3,24,4,43,,,5,44,,,11,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,1,13,,,11,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,11,2014
+STRUCTURE FIRE,Public Assembly,1,4,1,10,,,,,,,11,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,11,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,11,2014
+STRUCTURE FIRE,Stores and Offices,,,1,10,,,,,,,11,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,11,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,11,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,11,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,11,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,11,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,11,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,11,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,1,2,,,11,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,11,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,35,35,85,97,46,47,50,52,,,11,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,11,2014
+HAZARD,Hazardous Materials,2,10,9,56,4,11,6,35,,,11,2014
+HAZARD,Other HazMat Responses,6,24,10,50,7,33,4,24,,,11,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),15,57,18,60,10,43,17,91,,,11,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,11,2014
+FALSE ALARM,Other False alarms,43,112,37,132,25,53,30,59,,,11,2014
+TRAINING,Training ,,,,,,,,,,,11,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,11,2014
+TRAINING,Other events,,,,,,,,,,,11,2014
+INSPECTION,Initial Inspections,,,,,,,,,24,,11,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,103,,11,2014
+INSPECTION,Registrations,,,,,,,,,,,11,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,12,15,,,,,,,,,11,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,11,2014
+FINES,Fines Imposed,,,,,,,,,,,11,2014
+FINES,Fines collected,,,,,,,,,,,11,2014
+RESIDENTIAL,Private Dwellings,,,5,75,2,14,1,10,,,12,2014
+RESIDENTIAL,Apartments,3,9,4,34,1,4,1,4,,,12,2014
+RESIDENTIAL,Hotels and Motels,,,1,12,,,,,,,12,2014
+RESIDENTIAL,All Other Residential,,,2,12,,,,,,,12,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,2,11,,,12,2014
+STRUCTURE FIRE,Schools and Colleges,1,11,1,8,,,,,,,12,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,12,2014
+STRUCTURE FIRE,Stores and Offices,3,17,,,,,,,,,12,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,12,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,12,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,1,,,12,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,,,3,7,,,,,12,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,1,17,,,,,,,12,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,1,1,,,,,,,12,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,12,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,10,,,,,1,1,,,12,2014
+NON-STRUCTURE FIRE,All Other Fires,,,1,10,,,,,,,12,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,47,88,90,51,59,57,68,,,12,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,12,2014
+HAZARD,Hazardous Materials,4,25,4,24,1,8,4,25,,,12,2014
+HAZARD,Other HazMat Responses,5,9,1,12,5,8,2,11,,,12,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),22,84,10,42,7,40,14,65,,,12,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,12,2014
+FALSE ALARM,Other False alarms,44,99,37,81,28,63,30,70,,,12,2014
+TRAINING,Training ,,,,,,,,,,,12,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,12,2014
+TRAINING,Other events,,,,,,,,,,,12,2014
+INSPECTION,Initial Inspections,,,,,,,,,36,,12,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,103,,12,2014
+INSPECTION,Registrations,,,,,,,,,,,12,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,12,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,12,2014
+FINES,Fines Imposed,,,,,,,,,,,12,2014
+FINES,Fines collected,,,,,,,,,,,12,2014
+RESIDENTIAL,Private Dwellings,,,1,10,1,10,1,8,,,13,2014
+RESIDENTIAL,Apartments,2,14,2,14,2,21,3,28,,,13,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,13,2014
+RESIDENTIAL,All Other Residential,1,5,,,,,2,12,,,13,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,13,2014
+STRUCTURE FIRE,Schools and Colleges,1,7,1,7,,,1,7,,,13,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,13,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,13,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,13,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,13,2014
+STRUCTURE FIRE,Other Structures,,,,,1,1,,,,,13,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,1,2,,,13,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,13,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,10,,,,,,,,,13,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,,,,,1,1,,,13,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,13,1,10,1,9,,,,,13,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,13,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,51,54,83,86,50,55,49,56,,,13,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,13,2014
+HAZARD,Hazardous Materials,3,29,9,37,3,19,3,3,,,13,2014
+HAZARD,Other HazMat Responses,3,4,7,21,7,29,4,7,,,13,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),18,75,14,77,9,30,13,55,,,13,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,13,2014
+FALSE ALARM,Other False alarms,35,80,41,67,52,75,20,26,,,13,2014
+TRAINING,Training ,,,,,,,,,,,13,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,13,2014
+TRAINING,Other events,,,,,,,,,,,13,2014
+INSPECTION,Initial Inspections,,,,,,,,,13,,13,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,112,,13,2014
+INSPECTION,Registrations,,,,,,,,,,,13,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,8,9,,,,,,,,,13,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,13,2014
+FINES,Fines Imposed,,,,,,,,,,,13,2014
+FINES,Fines collected,,,,,,,,,,,13,2014
+RESIDENTIAL,Private Dwellings,1,11,3,24,,,1,4,,,14,2014
+RESIDENTIAL,Apartments,9,54,5,39,1,4,6,44,,,14,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,14,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,14,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,14,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,14,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,1,15,1,4,,,,,,,14,2014
+STRUCTURE FIRE,Stores and Offices,1,16,,,,,,,,,14,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,14,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,14,2014
+STRUCTURE FIRE,Other Structures,,,,,1,1,,,,,14,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,3,1,2,,,,,14,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,14,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,14,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,1,16,,,,,,,14,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,14,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,14,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,56,57,101,105,60,61,71,75,,,14,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,14,2014
+HAZARD,Hazardous Materials,10,54,10,49,4,25,2,17,,,14,2014
+HAZARD,Other HazMat Responses,5,6,3,12,2,2,3,12,,,14,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),9,38,11,59,8,42,16,70,,,14,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,14,2014
+FALSE ALARM,Other False alarms,47,63,40,73,29,47,23,54,,,14,2014
+TRAINING,Training ,,,,,,,,,,,14,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,14,2014
+TRAINING,Other events,,,,,,,,,,,14,2014
+INSPECTION,Initial Inspections,,,,,,,,,23,,14,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,100,,14,2014
+INSPECTION,Registrations,,,,,,,,,,,14,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,14,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,14,2014
+FINES,Fines Imposed,,,,,,,,,,,14,2014
+FINES,Fines collected,,,,,,,,,,,14,2014
+RESIDENTIAL,Private Dwellings,1,4,5,43,1,4,2,19,,,16,2014
+RESIDENTIAL,Apartments,6,35,3,26,5,52,3,18,,,16,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,1,4,,,16,2014
+RESIDENTIAL,All Other Residential,2,5,1,10,,,1,8,,,16,2014
+STRUCTURE FIRE,Public Assembly,,,,,2,5,,,,,16,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,7,,,,,,,16,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,16,2014
+STRUCTURE FIRE,Stores and Offices,,,1,11,,,,,,,16,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,16,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,16,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,16,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,,,,,,,16,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,16,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,1,1,10,,,,,,,16,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,1,12,,,,,16,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,2,1,10,,,1,1,,,16,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,16,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,49,57,77,81,39,43,41,49,,,16,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,16,2014
+HAZARD,Hazardous Materials,1,3,4,11,1,8,1,8,,,16,2014
+HAZARD,Other HazMat Responses,5,30,5,19,4,19,5,34,,,16,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),19,86,11,48,6,27,7,26,,,16,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,16,2014
+FALSE ALARM,Other False alarms,34,44,24,64,30,41,41,87,,,16,2014
+TRAINING,Training ,,,,,,,,,,,16,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,16,2014
+TRAINING,Other events,,,,,,,,,,,16,2014
+INSPECTION,Initial Inspections,,,,,,,,,30,,16,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,149,,16,2014
+INSPECTION,Registrations,,,,,,,,,,,16,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,6,6,,,,,,,,,16,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,16,2014
+FINES,Fines Imposed,,,,,,,,,,,16,2014
+FINES,Fines collected,,,,,,,,,,,16,2014
+RESIDENTIAL,Private Dwellings,,,6,50,1,12,,,,,17,2014
+RESIDENTIAL,Apartments,4,34,3,29,3,12,,,,,17,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,17,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,17,2014
+STRUCTURE FIRE,Public Assembly,,,,,2,6,,,,,17,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,17,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,17,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,17,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,17,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,17,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,17,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,1,4,,,,,17,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,17,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,1,1,,,1,1,,,17,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",9,19,10,39,1,1,2,6,,,17,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",2,2,2,11,,,1,4,,,17,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,17,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,34,39,102,105,31,37,57,61,,,17,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,17,2014
+HAZARD,Hazardous Materials,,,5,13,2,15,2,9,,,17,2014
+HAZARD,Other HazMat Responses,5,27,5,10,13,29,5,19,,,17,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),17,74,5,14,6,27,11,49,,,17,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,17,2014
+FALSE ALARM,Other False alarms,39,44,38,88,25,38,34,55,,,17,2014
+TRAINING,Training ,,,,,,,,,,,17,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,17,2014
+TRAINING,Other events,,,,,,,,,,,17,2014
+INSPECTION,Initial Inspections,,,,,,,,,21,,17,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,118,,17,2014
+INSPECTION,Registrations,,,,,,,,,,,17,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,3,,,,,,,,,17,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,17,2014
+FINES,Fines Imposed,,,,,,,,,,,17,2014
+FINES,Fines collected,,,,,,,,,,,17,2014
+RESIDENTIAL,Private Dwellings,,,3,21,1,12,1,10,,,18,2014
+RESIDENTIAL,Apartments,7,42,5,46,4,16,,,,,18,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,18,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,18,2014
+STRUCTURE FIRE,Public Assembly,1,16,,,1,4,,,,,18,2014
+STRUCTURE FIRE,Schools and Colleges,1,7,,,,,,,,,18,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,18,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,3,,,,,18,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,18,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,18,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,18,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,1,2,1,2,,,18,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,18,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,18,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",8,18,7,25,1,1,1,4,,,18,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,1,3,12,,,1,2,,,18,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,18,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,64,74,144,159,60,66,88,93,,,18,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,18,2014
+HAZARD,Hazardous Materials,1,1,5,11,5,26,7,31,,,18,2014
+HAZARD,Other HazMat Responses,10,41,7,10,19,53,8,24,,,18,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),44,219,25,102,17,77,20,94,,,18,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,18,2014
+FALSE ALARM,Other False alarms,64,106,58,125,141,177,65,111,,,18,2014
+TRAINING,Training ,,,,,,,,,,,18,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,18,2014
+TRAINING,Other events,,,,,,,,,,,18,2014
+INSPECTION,Initial Inspections,,,,,,,,,30,,18,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,129,,18,2014
+INSPECTION,Registrations,,,,,,,,,,,18,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,5,5,,,,,,,,,18,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,18,2014
+FINES,Fines Imposed,,,,,,,,,,,18,2014
+FINES,Fines collected,,,,,,,,,,,18,2014
+RESIDENTIAL,Private Dwellings,,,3,25,1,4,1,20,,,19,2014
+RESIDENTIAL,Apartments,3,12,1,11,3,26,6,58,,,19,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,19,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,19,2014
+STRUCTURE FIRE,Public Assembly,1,1,1,1,,,1,4,,,19,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,19,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,19,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,19,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,1,10,,,,,19,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,19,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,19,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,,,1,2,,,19,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,19,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,19,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,10,2,2,,,,,,,19,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,1,,,,,,,19,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,19,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,42,93,98,30,34,41,49,,,19,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,19,2014
+HAZARD,Hazardous Materials,6,22,8,36,5,40,5,19,,,19,2014
+HAZARD,Other HazMat Responses,6,24,2,11,4,13,6,15,,,19,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,103,15,61,13,55,12,51,,,19,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,19,2014
+FALSE ALARM,Other False alarms,36,72,41,61,22,44,29,52,,,19,2014
+TRAINING,Training ,,,,,,,,,,,19,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,19,2014
+TRAINING,Other events,,,,,,,,,,,19,2014
+INSPECTION,Initial Inspections,,,,,,,,,35,,19,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,77,,19,2014
+INSPECTION,Registrations,,,,,,,,,,,19,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,16,25,,,,,,,,,19,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,19,2014
+FINES,Fines Imposed,,,,,,,,,,,19,2014
+FINES,Fines collected,,,,,,,,,,,19,2014
+RESIDENTIAL,Private Dwellings,,,,,,,,,,,20,2014
+RESIDENTIAL,Apartments,4,16,1,4,2,8,5,38,,,20,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,20,2014
+RESIDENTIAL,All Other Residential,,,2,17,,,,,,,20,2014
+STRUCTURE FIRE,Public Assembly,,,,,1,1,,,,,20,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,7,,,,,,,20,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,20,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,20,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,20,2014
+STRUCTURE FIRE,Storage in Structures,,,1,20,,,,,,,20,2014
+STRUCTURE FIRE,Other Structures,,,1,10,,,1,1,,,20,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,20,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,20,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,20,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,1,1,,,,,20,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,1,10,,,20,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,20,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,30,36,80,82,41,43,48,54,,,20,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,20,2014
+HAZARD,Hazardous Materials,5,19,2,11,3,3,3,18,,,20,2014
+HAZARD,Other HazMat Responses,4,9,6,21,3,4,1,5,,,20,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),16,69,12,57,12,59,21,99,,,20,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,20,2014
+FALSE ALARM,Other False alarms,30,49,71,94,39,76,26,37,,,20,2014
+TRAINING,Training ,,,,,,,,,,,20,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,20,2014
+TRAINING,Other events,,,,,,,,,,,20,2014
+INSPECTION,Initial Inspections,,,,,,,,,42,,20,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,88,,20,2014
+INSPECTION,Registrations,,,,,,,,,,,20,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,20,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,20,2014
+FINES,Fines Imposed,,,,,,,,,,,20,2014
+FINES,Fines collected,,,,,,,,,,,20,2014
+RESIDENTIAL,Private Dwellings,1,16,5,58,1,4,1,14,,,21,2014
+RESIDENTIAL,Apartments,2,8,1,10,2,15,3,18,,,21,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,21,2014
+RESIDENTIAL,All Other Residential,,,,,1,10,,,,,21,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,1,7,,,21,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,21,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,21,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,21,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,21,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,21,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,21,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,21,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,21,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,21,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,1,1,,,2,10,,,21,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,11,,,,,,,21,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,1,10,1,13,,,21,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,39,43,73,78,56,66,59,60,,,21,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,21,2014
+HAZARD,Hazardous Materials,3,20,4,25,3,23,3,15,,,21,2014
+HAZARD,Other HazMat Responses,6,22,6,12,5,14,3,5,,,21,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),16,62,20,86,11,47,21,104,,,21,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,21,2014
+FALSE ALARM,Other False alarms,37,55,41,79,29,66,20,46,,,21,2014
+TRAINING,Training ,,,,,,,,,,,21,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,21,2014
+TRAINING,Other events,,,,,,,,,,,21,2014
+INSPECTION,Initial Inspections,,,,,,,,,34,,21,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,90,,21,2014
+INSPECTION,Registrations,,,,,,,,,,,21,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,21,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,21,2014
+FINES,Fines Imposed,,,,,,,,,,,21,2014
+FINES,Fines collected,,,,,,,,,,,21,2014
+RESIDENTIAL,Private Dwellings,1,10,3,41,,,,,,,22,2014
+RESIDENTIAL,Apartments,4,53,4,23,,,5,36,,,22,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,22,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,22,2014
+STRUCTURE FIRE,Public Assembly,1,11,,,,,1,4,,,22,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,1,8,,,22,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,22,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,22,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,22,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,22,2014
+STRUCTURE FIRE,Other Structures,1,2,,,,,,,,,22,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,3,,,,,,,,,22,2014
+NON-STRUCTURE FIRE,Other Vehicles,1,14,,,,,,,,,22,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,22,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,4,13,,,,,,,22,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,22,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,22,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,36,42,105,118,44,48,47,51,,,22,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,22,2014
+HAZARD,Hazardous Materials,1,8,1,16,2,16,3,5,,,22,2014
+HAZARD,Other HazMat Responses,3,15,6,23,3,3,3,11,,,22,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),7,28,11,62,6,27,15,73,,,22,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,22,2014
+FALSE ALARM,Other False alarms,28,44,28,55,27,52,35,66,,,22,2014
+TRAINING,Training ,,,,,,,,,,,22,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,22,2014
+TRAINING,Other events,,,,,,,,,,,22,2014
+INSPECTION,Initial Inspections,,,,,,,,,43,,22,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,88,,22,2014
+INSPECTION,Registrations,,,,,,,,,,,22,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,7,14,,,,,,,,,22,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,22,2014
+FINES,Fines Imposed,,,,,,,,,,,22,2014
+FINES,Fines collected,,,,,,,,,,,22,2014
+RESIDENTIAL,Private Dwellings,,,2,24,1,7,2,12,,,23,2014
+RESIDENTIAL,Apartments,5,21,1,4,3,9,3,40,,,23,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,23,2014
+RESIDENTIAL,All Other Residential,1,4,1,4,,,,,,,23,2014
+STRUCTURE FIRE,Public Assembly,,,1,10,,,,,,,23,2014
+STRUCTURE FIRE,Schools and Colleges,2,14,,,,,,,,,23,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,1,7,,,,,,,,,23,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,23,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,23,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,23,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,23,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,23,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,1,11,1,2,,,23,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,23,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",2,2,2,2,,,,,,,23,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,1,,,1,5,,,,,23,2014
+NON-STRUCTURE FIRE,All Other Fires,1,1,,,,,1,10,,,23,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,40,52,109,115,37,48,43,56,,,23,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,23,2014
+HAZARD,Hazardous Materials,4,14,5,12,2,2,2,15,,,23,2014
+HAZARD,Other HazMat Responses,5,20,10,64,3,6,8,42,,,23,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),27,141,10,46,8,38,17,83,,,23,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,23,2014
+FALSE ALARM,Other False alarms,25,68,35,61,19,43,20,52,,,23,2014
+TRAINING,Training ,,,,,,,,,,,23,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,23,2014
+TRAINING,Other events,,,,,,,,,,,23,2014
+INSPECTION,Initial Inspections,,,,,,,,,40,,23,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,90,,23,2014
+INSPECTION,Registrations,,,,,,,,,,,23,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,23,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,23,2014
+FINES,Fines Imposed,,,,,,,,,,,23,2014
+FINES,Fines collected,,,,,,,,,,,23,2014
+RESIDENTIAL,Private Dwellings,,,1,12,1,4,,,,,24,2014
+RESIDENTIAL,Apartments,2,31,4,28,1,11,3,30,,,24,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,24,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,24,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,2,11,,,24,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,24,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,24,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,24,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,24,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,24,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,2,,,24,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,1,10,,,,,24,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,24,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,24,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,11,1,1,,,,,,,24,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,24,2014
+NON-STRUCTURE FIRE,All Other Fires,1,11,1,13,,,,,,,24,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,29,33,89,99,36,42,48,55,,,24,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,24,2014
+HAZARD,Hazardous Materials,8,28,1,2,4,11,6,36,,,24,2014
+HAZARD,Other HazMat Responses,5,24,11,33,2,2,4,10,,,24,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),20,89,17,79,13,57,11,47,,,24,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,24,2014
+FALSE ALARM,Other False alarms,33,64,25,59,128,131,36,80,,,24,2014
+TRAINING,Training ,,,,,,,,,,,24,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,24,2014
+TRAINING,Other events,,,,,,,,,,,24,2014
+INSPECTION,Initial Inspections,,,,,,,,,34,,24,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,95,,24,2014
+INSPECTION,Registrations,,,,,,,,,,,24,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,3,,,,,,,,,24,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,24,2014
+FINES,Fines Imposed,,,,,,,,,,,24,2014
+FINES,Fines collected,,,,,,,,,,,24,2014
+RESIDENTIAL,Private Dwellings,,,6,46,,,1,11,,,25,2014
+RESIDENTIAL,Apartments,4,30,1,11,2,24,1,10,,,25,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,25,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,16,,,25,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,25,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,25,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,25,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,7,,,,,25,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,25,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,25,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,25,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,25,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,1,6,,,,,,,25,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,25,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,,,,,1,1,,,25,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,2,16,,,25,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,25,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,43,49,91,96,36,43,74,80,,,25,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,25,2014
+HAZARD,Hazardous Materials,7,36,4,21,2,10,3,10,,,25,2014
+HAZARD,Other HazMat Responses,3,7,7,23,5,14,5,11,,,25,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),22,91,17,85,8,38,16,71,,,25,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,25,2014
+FALSE ALARM,Other False alarms,47,58,32,62,21,40,37,61,,,25,2014
+TRAINING,Training ,,,,,,,,,,,25,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,25,2014
+TRAINING,Other events,,,,,,,,,,,25,2014
+INSPECTION,Initial Inspections,,,,,,,,,39,,25,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,137,,25,2014
+INSPECTION,Registrations,,,,,,,,,,,25,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,25,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,25,2014
+FINES,Fines Imposed,,,,,,,,,,,25,2014
+FINES,Fines collected,,,,,,,,,,,25,2014
+RESIDENTIAL,Private Dwellings,,,,,,,,,,,26,2014
+RESIDENTIAL,Apartments,1,4,1,4,2,8,6,49,,,26,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,26,2014
+RESIDENTIAL,All Other Residential,,,1,11,,,,,,,26,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,26,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,26,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,26,2014
+STRUCTURE FIRE,Stores and Offices,2,16,1,1,1,23,,,,,26,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,26,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,26,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,26,2014
+NON-STRUCTURE FIRE,Highway vehicles,2,14,,,,,,,,,26,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,26,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,1,4,,,,,26,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",3,14,,,,,,,,,26,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,26,2014
+NON-STRUCTURE FIRE,All Other Fires,1,11,1,10,,,,,,,26,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,42,46,98,107,35,44,55,62,,,26,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,26,2014
+HAZARD,Hazardous Materials,2,9,1,1,3,3,1,8,,,26,2014
+HAZARD,Other HazMat Responses,4,7,2,13,4,14,6,34,,,26,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),26,122,13,61,13,62,10,53,,,26,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,26,2014
+FALSE ALARM,Other False alarms,76,110,49,92,25,40,31,34,,,26,2014
+TRAINING,Training ,,,,,,,,,,,26,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,26,2014
+TRAINING,Other events,,,,,,,,,,,26,2014
+INSPECTION,Initial Inspections,,,,,,,,,37,,26,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,123,,26,2014
+INSPECTION,Registrations,,,,,,,,,,,26,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,26,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,26,2014
+FINES,Fines Imposed,,,,,,,,,,,26,2014
+FINES,Fines collected,,,,,,,,,,,26,2014
+RESIDENTIAL,Private Dwellings,,,,,,,2,25,,,27,2014
+RESIDENTIAL,Apartments,2,21,4,34,3,18,4,22,,,27,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,27,2014
+RESIDENTIAL,All Other Residential,1,4,,,,,1,4,,,27,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,27,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,27,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,27,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,27,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,27,2014
+STRUCTURE FIRE,Storage in Structures,1,11,,,,,,,,,27,2014
+STRUCTURE FIRE,Other Structures,,,3,4,,,,,,,27,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,,,,,,,,,27,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,27,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,27,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",2,2,1,12,,,,,,,27,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,10,1,2,1,8,,,,,27,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,27,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,36,40,90,106,50,66,36,38,,,27,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,27,2014
+HAZARD,Hazardous Materials,1,10,7,16,1,9,1,8,,,27,2014
+HAZARD,Other HazMat Responses,6,10,8,11,6,9,7,38,,,27,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),23,101,20,101,11,47,18,75,,,27,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,27,2014
+FALSE ALARM,Other False alarms,44,50,46,71,42,84,45,82,,,27,2014
+TRAINING,Training ,,,,,,,,,,,27,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,27,2014
+TRAINING,Other events,,,,,,,,,,,27,2014
+INSPECTION,Initial Inspections,,,,,,,,,33,,27,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,121,,27,2014
+INSPECTION,Registrations,,,,,,,,,,,27,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,27,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,27,2014
+FINES,Fines Imposed,,,,,,,,,,,27,2014
+FINES,Fines collected,,,,,,,,,,,27,2014
+RESIDENTIAL,Private Dwellings,1,24,2,21,,,,,,,28,2014
+RESIDENTIAL,Apartments,2,8,2,14,4,29,5,29,,,28,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,28,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,28,2014
+STRUCTURE FIRE,Public Assembly,1,4,1,9,,,,,,,28,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,10,,,,,,,28,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,28,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,28,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,28,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,28,2014
+STRUCTURE FIRE,Other Structures,1,1,,,,,,,,,28,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,28,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,28,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,10,,,,,,,,,28,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,1,4,,,,,28,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",2,3,,,2,12,1,1,,,28,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,28,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,27,29,98,107,47,47,43,43,,,28,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,28,2014
+HAZARD,Hazardous Materials,7,39,5,25,2,12,1,8,,,28,2014
+HAZARD,Other HazMat Responses,8,37,8,21,12,28,8,42,,,28,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),18,82,13,63,11,60,16,83,,,28,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,28,2014
+FALSE ALARM,Other False alarms,45,80,,,,,40,42,,,28,2014
+TRAINING,Training ,,,,,,,,,,,28,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,28,2014
+TRAINING,Other events,,,43,55,65,72,,,,,28,2014
+INSPECTION,Initial Inspections,,,,,,,,,18,,28,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,89,,28,2014
+INSPECTION,Registrations,,,,,,,,,,,28,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,6,,,,,,,,,28,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,28,2014
+FINES,Fines Imposed,,,,,,,,,,,28,2014
+FINES,Fines collected,,,,,,,,,,,28,2014
+RESIDENTIAL,Private Dwellings,,,,,1,9,,,,,29,2014
+RESIDENTIAL,Apartments,1,4,3,30,2,20,1,4,,,29,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,29,2014
+RESIDENTIAL,All Other Residential,,,1,7,,,,,,,29,2014
+STRUCTURE FIRE,Public Assembly,1,10,,,,,,,,,29,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,29,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,29,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,29,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,29,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,29,2014
+STRUCTURE FIRE,Other Structures,1,2,1,2,,,,,,,29,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,10,1,2,,,,,,,29,2014
+NON-STRUCTURE FIRE,Other Vehicles,1,13,,,,,,,,,29,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,29,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,29,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,10,,,,,,,29,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,29,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,38,39,94,150,39,41,53,73,,,29,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,29,2014
+HAZARD,Hazardous Materials,6,28,2,10,,,6,37,,,29,2014
+HAZARD,Other HazMat Responses,5,11,7,51,7,10,4,4,,,29,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),27,111,16,62,12,51,18,90,,,29,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,29,2014
+FALSE ALARM,Other False alarms,35,76,42,57,42,60,27,51,,,29,2014
+TRAINING,Training ,,,,,,,,,,,29,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,29,2014
+TRAINING,Other events,,,,,,,,,,,29,2014
+INSPECTION,Initial Inspections,,,,,,,,,32,,29,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,138,,29,2014
+INSPECTION,Registrations,,,,,,,,,,,29,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,29,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,7,7,,,,,,,,,29,2014
+FINES,Fines Imposed,,,,,,,,,,,29,2014
+FINES,Fines collected,,,,,,,,,,,29,2014
+RESIDENTIAL,Private Dwellings,,,3,24,1,17,,,,,30,2014
+RESIDENTIAL,Apartments,4,28,,,3,19,,,,,30,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,30,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,30,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,30,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,30,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,30,2014
+STRUCTURE FIRE,Stores and Offices,1,5,,,,,,,,,30,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,30,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,30,2014
+STRUCTURE FIRE,Other Structures,,,,,1,1,,,,,30,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,30,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,30,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,30,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,1,1,,,,,,,30,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,10,,,,,,,,,30,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,1,2,,,30,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,47,52,73,86,38,51,60,79,,,30,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,30,2014
+HAZARD,Hazardous Materials,1,1,4,14,2,9,1,1,,,30,2014
+HAZARD,Other HazMat Responses,6,15,8,36,4,16,,,,,30,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),24,129,12,45,12,61,16,69,,,30,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,30,2014
+FALSE ALARM,Other False alarms,31,44,29,48,22,48,44,45,,,30,2014
+TRAINING,Training ,,,,,,,,,,,30,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,30,2014
+TRAINING,Other events,,,,,,,,,,,30,2014
+INSPECTION,Initial Inspections,,,,,,,,,39,,30,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,126,,30,2014
+INSPECTION,Registrations,,,,,,,,,,,30,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,30,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,30,2014
+FINES,Fines Imposed,,,,,,,,,,,30,2014
+FINES,Fines collected,,,,,,,,,,,30,2014
+RESIDENTIAL,Private Dwellings,,,6,43,,,,,,,31,2014
+RESIDENTIAL,Apartments,2,21,3,11,,,5,26,,,31,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,31,2014
+RESIDENTIAL,All Other Residential,2,8,,,,,,,,,31,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,1,4,,,31,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,31,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,2,16,,,,,,,31,2014
+STRUCTURE FIRE,Stores and Offices,1,4,,,,,,,,,31,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,31,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,31,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,1,,,31,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,3,1,2,,,,,,,31,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,31,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,31,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,1,1,,,,,,,31,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,9,,,,,,,,,31,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,31,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,36,44,70,80,47,65,60,68,,,31,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,31,2014
+HAZARD,Hazardous Materials,2,16,3,17,2,17,1,1,,,31,2014
+HAZARD,Other HazMat Responses,6,22,7,30,6,16,2,2,,,31,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),22,103,13,49,15,77,15,70,,,31,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,31,2014
+FALSE ALARM,Other False alarms,43,46,45,58,37,50,35,48,,,31,2014
+TRAINING,Training ,,,,,,,,,,,31,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,31,2014
+TRAINING,Other events,,,,,,,,,,,31,2014
+INSPECTION,Initial Inspections,,,,,,,,,29,,31,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,96,,31,2014
+INSPECTION,Registrations,,,,,,,,,,,31,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,1,2,,,,,,,,,31,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,31,2014
+FINES,Fines Imposed,,,,,,,,,,,31,2014
+FINES,Fines collected,,,,,,,,,,,31,2014
+RESIDENTIAL,Private Dwellings,2,15,5,76,,,1,4,,,32,2014
+RESIDENTIAL,Apartments,,,5,30,1,4,5,38,,,32,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,32,2014
+RESIDENTIAL,All Other Residential,,,,,1,4,,,,,32,2014
+STRUCTURE FIRE,Public Assembly,1,1,,,,,,,,,32,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,32,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,32,2014
+STRUCTURE FIRE,Stores and Offices,,,1,1,,,,,,,32,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,32,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,32,2014
+STRUCTURE FIRE,Other Structures,,,1,1,,,,,,,32,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,2,13,,,,,,,32,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,32,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,1,,,,,,,,,32,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",2,5,,,,,,,,,32,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",2,2,1,1,,,,,,,32,2014
+NON-STRUCTURE FIRE,All Other Fires,,,1,10,,,,,,,32,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,43,54,83,93,41,42,50,55,,,32,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,32,2014
+HAZARD,Hazardous Materials,3,10,,,2,11,2,2,,,32,2014
+HAZARD,Other HazMat Responses,3,13,8,27,4,14,5,8,,,32,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),12,48,21,91,22,112,6,24,,,32,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,32,2014
+FALSE ALARM,Other False alarms,43,59,33,65,36,57,42,63,,,32,2014
+TRAINING,Training ,,,,,,,,,,,32,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,32,2014
+TRAINING,Other events,,,,,,,,,,,32,2014
+INSPECTION,Initial Inspections,,,,,,,,,35,,32,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,114,,32,2014
+INSPECTION,Registrations,,,,,,,,,,,32,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,3,,,,,,,,,32,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,32,2014
+FINES,Fines Imposed,,,,,,,,,,,32,2014
+FINES,Fines collected,,,,,,,,,,,32,2014
+RESIDENTIAL,Private Dwellings,1,4,3,20,,,1,11,,,33,2014
+RESIDENTIAL,Apartments,3,18,1,4,,,3,29,,,33,2014
+RESIDENTIAL,Hotels and Motels,1,12,,,,,,,,,33,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,4,,,33,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,33,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,33,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,33,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,33,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,33,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,33,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,10,,,33,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,3,,,,,,,33,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,33,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,13,1,4,1,1,,,,,33,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,1,7,,,,,,,33,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,2,2,,,,,,,33,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,33,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,40,45,95,95,36,36,52,57,,,33,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,33,2014
+HAZARD,Hazardous Materials,,,4,26,4,25,2,16,,,33,2014
+HAZARD,Other HazMat Responses,3,25,9,27,6,15,2,11,,,33,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),20,84,10,47,10,54,14,72,,,33,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,33,2014
+FALSE ALARM,Other False alarms,35,38,56,97,58,69,47,60,,,33,2014
+TRAINING,Training ,,,,,,,,,,,33,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,33,2014
+TRAINING,Other events,,,,,,,,,,,33,2014
+INSPECTION,Initial Inspections,,,,,,,,,51,,33,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,144,,33,2014
+INSPECTION,Registrations,,,,,,,,,,,33,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,5,5,,,,,,,,,33,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,33,2014
+FINES,Fines Imposed,,,,,,,,,,,33,2014
+FINES,Fines collected,,,,,,,,,,,33,2014
+RESIDENTIAL,Private Dwellings,,,2,19,,,1,10,,,34,2014
+RESIDENTIAL,Apartments,3,18,2,20,2,24,,,,,34,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,34,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,7,,,34,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,34,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,1,7,,,,,34,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,2,14,,,,,,,34,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,4,,,,,34,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,34,2014
+STRUCTURE FIRE,Storage in Structures,,,,,1,1,,,,,34,2014
+STRUCTURE FIRE,Other Structures,,,1,4,1,11,,,,,34,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,3,,,,,2,6,,,34,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,1,2,,,,,34,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,34,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,34,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,1,1,1,2,2,1,10,,,34,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,34,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,32,34,77,87,30,35,52,62,,,34,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,34,2014
+HAZARD,Hazardous Materials,4,30,3,13,3,16,2,5,,,34,2014
+HAZARD,Other HazMat Responses,6,9,3,7,8,27,7,19,,,34,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,92,9,43,15,81,15,61,,,34,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,34,2014
+FALSE ALARM,Other False alarms,34,89,55,72,43,64,43,78,,,34,2014
+TRAINING,Training ,,,,,,,,,,,34,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,34,2014
+TRAINING,Other events,,,,,,,,,,,34,2014
+INSPECTION,Initial Inspections,,,,,,,,,31,,34,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,107,,34,2014
+INSPECTION,Registrations,,,,,,,,,,,34,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,34,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,34,2014
+FINES,Fines Imposed,,,,,,,,,,,34,2014
+FINES,Fines collected,,,,,,,,,,,34,2014
+RESIDENTIAL,Private Dwellings,,,4,33,1,2,1,10,,,35,2014
+RESIDENTIAL,Apartments,3,18,2,15,2,24,2,15,,,35,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,35,2014
+RESIDENTIAL,All Other Residential,,,,,,,2,14,,,35,2014
+STRUCTURE FIRE,Public Assembly,,,1,1,,,1,10,,,35,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,35,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,5,27,,,,,,,35,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,4,,,,,35,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,35,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,35,2014
+STRUCTURE FIRE,Other Structures,,,,,1,11,,,,,35,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,5,,,,,,,35,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,35,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,1,10,,,,,,,35,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,3,13,1,1,,,,,35,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,1,10,,,,,35,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,35,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,54,58,106,130,45,56,62,68,,,35,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,35,2014
+HAZARD,Hazardous Materials,4,10,4,15,3,24,4,21,,,35,2014
+HAZARD,Other HazMat Responses,10,21,12,44,6,10,4,14,,,35,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),28,112,18,74,17,68,19,79,,,35,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,35,2014
+FALSE ALARM,Other False alarms,52,99,75,127,44,60,41,75,,,35,2014
+TRAINING,Training ,,,,,,,,,,,35,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,35,2014
+TRAINING,Other events,,,,,,,,,,,35,2014
+INSPECTION,Initial Inspections,,,,,,,,,52,,35,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,133,,35,2014
+INSPECTION,Registrations,,,,,,,,,,,35,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,6,6,,,,,,,,,35,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,35,2014
+FINES,Fines Imposed,,,,,,,,,,,35,2014
+FINES,Fines collected,,,,,,,,,,,35,2014
+RESIDENTIAL,Private Dwellings,,,3,35,,,2,24,,,36,2014
+RESIDENTIAL,Apartments,,,1,11,2,12,1,4,,,36,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,1,4,,,36,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,36,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,36,2014
+STRUCTURE FIRE,Schools and Colleges,1,7,,,1,7,,,,,36,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,36,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,36,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,36,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,36,2014
+STRUCTURE FIRE,Other Structures,1,1,1,2,,,,,,,36,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,2,5,,,36,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,36,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,36,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,36,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",4,15,,,,,,,,,36,2014
+NON-STRUCTURE FIRE,All Other Fires,1,10,,,,,,,,,36,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,48,62,95,106,45,53,42,54,,,36,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,36,2014
+HAZARD,Hazardous Materials,3,4,4,20,5,19,4,14,,,36,2014
+HAZARD,Other HazMat Responses,9,46,10,34,10,29,7,37,,,36,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),26,105,14,51,19,94,20,94,,,36,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,36,2014
+FALSE ALARM,Other False alarms,53,79,43,70,48,82,25,72,,,36,2014
+TRAINING,Training ,,,,,,,,,,,36,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,36,2014
+TRAINING,Other events,,,,,,,,,,,36,2014
+INSPECTION,Initial Inspections,,,,,,,,,35,,36,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,82,,36,2014
+INSPECTION,Registrations,,,,,,,,,,,36,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,2,4,,,,,,,,,36,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,36,2014
+FINES,Fines Imposed,,,,,,,,,,,36,2014
+FINES,Fines collected,,,,,,,,,,,36,2014
+RESIDENTIAL,Private Dwellings,1,11,5,25,,,,,,,37,2014
+RESIDENTIAL,Apartments,3,12,3,23,1,4,4,22,,,37,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,37,2014
+RESIDENTIAL,All Other Residential,,,1,4,,,1,4,,,37,2014
+STRUCTURE FIRE,Public Assembly,2,2,,,1,15,1,4,,,37,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,37,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,1,15,,,37,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,37,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,37,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,37,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,1,,,37,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,2,5,,,,,,,37,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,37,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,1,1,,,37,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,2,2,,,,,,,37,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",2,21,1,1,,,,,,,37,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,37,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,36,51,92,99,41,46,58,63,,,37,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,37,2014
+HAZARD,Hazardous Materials,5,28,5,13,3,11,7,38,,,37,2014
+HAZARD,Other HazMat Responses,4,27,7,47,10,40,6,9,,,37,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,101,18,84,8,32,20,90,,,37,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,37,2014
+FALSE ALARM,Other False alarms,46,88,47,71,37,48,24,37,,,37,2014
+TRAINING,Training ,,,,,,,,,,,37,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,37,2014
+TRAINING,Other events,,,,,,,,,,,37,2014
+INSPECTION,Initial Inspections,,,,,,,,,51,,37,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,97,,37,2014
+INSPECTION,Registrations,,,,,,,,,,,37,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,37,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,37,2014
+FINES,Fines Imposed,,,,,,,,,,,37,2014
+FINES,Fines collected,,,,,,,,,,,37,2014
+RESIDENTIAL,Private Dwellings,,,5,24,1,1,3,28,,,38,2014
+RESIDENTIAL,Apartments,2,13,3,18,2,13,4,33,,,38,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,38,2014
+RESIDENTIAL,All Other Residential,3,12,,,,,1,12,,,38,2014
+STRUCTURE FIRE,Public Assembly,1,1,,,,,1,4,,,38,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,38,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,38,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,38,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,38,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,38,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,38,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,2,5,,,,,,,38,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,38,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,38,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,1,1,,,38,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,1,9,1,1,,,38,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,1,9,,,,,38,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,53,55,95,99,54,63,46,50,,,38,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,38,2014
+HAZARD,Hazardous Materials,1,1,4,25,4,23,2,10,,,38,2014
+HAZARD,Other HazMat Responses,1,1,7,7,2,10,4,20,,,38,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),17,76,18,72,11,48,23,113,,,38,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,38,2014
+FALSE ALARM,Other False alarms,54,77,31,48,33,74,29,45,,,38,2014
+TRAINING,Training ,,,,,,,,,,,38,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,38,2014
+TRAINING,Other events,,,,,,,,,,,38,2014
+INSPECTION,Initial Inspections,,,,,,,,,43,,38,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,154,,38,2014
+INSPECTION,Registrations,,,,,,,,,,,38,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,38,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,38,2014
+FINES,Fines Imposed,,,,,,,,,,,38,2014
+FINES,Fines collected,,,,,,,,,,,38,2014
+RESIDENTIAL,Private Dwellings,2,13,,,1,4,,,,,39,2014
+RESIDENTIAL,Apartments,2,8,1,4,4,30,5,31,,,39,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,39,2014
+RESIDENTIAL,All Other Residential,,,1,1,,,1,7,,,39,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,39,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,39,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,39,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,39,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,39,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,39,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,39,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,2,14,,,1,4,,,39,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,39,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,39,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,39,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",2,11,1,9,1,1,1,1,,,39,2014
+NON-STRUCTURE FIRE,All Other Fires,1,10,,,1,1,,,,,39,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,47,53,104,116,33,45,43,46,,,39,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,39,2014
+HAZARD,Hazardous Materials,1,8,1,8,1,8,6,28,,,39,2014
+HAZARD,Other HazMat Responses,1,8,1,9,3,3,5,6,,,39,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),26,130,15,77,15,66,11,49,,,39,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,39,2014
+FALSE ALARM,Other False alarms,43,69,43,77,46,74,30,50,,,39,2014
+TRAINING,Training ,,,,,,,,,,,39,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,39,2014
+TRAINING,Other events,,,,,,,,,,,39,2014
+INSPECTION,Initial Inspections,,,,,,,,,54,,39,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,141,,39,2014
+INSPECTION,Registrations,,,,,,,,,,,39,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,6,,,,,,,,,39,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,39,2014
+FINES,Fines Imposed,,,,,,,,,,,39,2014
+FINES,Fines collected,,,,,,,,,,,39,2014
+RESIDENTIAL,Private Dwellings,,,1,14,1,9,,,,,40,2014
+RESIDENTIAL,Apartments,1,4,1,12,4,23,2,8,,,40,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,40,2014
+RESIDENTIAL,All Other Residential,2,13,,,,,,,,,40,2014
+STRUCTURE FIRE,Public Assembly,1,4,,,,,1,4,,,40,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,7,,,,,,,40,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,40,2014
+STRUCTURE FIRE,Stores and Offices,1,16,,,,,1,4,,,40,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,40,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,40,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,40,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,2,18,1,2,,,40,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,1,2,,,,,,,40,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,1,1,,,40,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,40,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",1,2,1,1,,,,,,,40,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,40,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,35,42,87,93,46,52,54,60,,,40,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,40,2014
+HAZARD,Hazardous Materials,6,17,9,31,3,3,1,1,,,40,2014
+HAZARD,Other HazMat Responses,6,9,6,6,3,30,4,6,,,40,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),24,108,17,71,9,39,18,83,,,40,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,40,2014
+FALSE ALARM,Other False alarms,41,69,45,86,31,48,29,45,,,40,2014
+TRAINING,Training ,,,,,,,,,,,40,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,40,2014
+TRAINING,Other events,,,,,,,,,,,40,2014
+INSPECTION,Initial Inspections,,,,,,,,,24,,40,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,157,,40,2014
+INSPECTION,Registrations,,,,,,,,,,,40,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,40,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,40,2014
+FINES,Fines Imposed,,,,,,,,,,,40,2014
+FINES,Fines collected,,,,,,,,,,,40,2014
+RESIDENTIAL,Private Dwellings,1,13,3,22,1,4,,,,,41,2014
+RESIDENTIAL,Apartments,2,8,5,38,2,13,3,22,,,41,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,41,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,41,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,41,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,41,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,41,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,41,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,41,2014
+STRUCTURE FIRE,Storage in Structures,1,12,,,,,,,,,41,2014
+STRUCTURE FIRE,Other Structures,,,1,1,1,1,,,,,41,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,41,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,41,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,41,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,2,10,,,41,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,41,2014
+NON-STRUCTURE FIRE,All Other Fires,,,1,9,,,,,,,41,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,60,67,81,84,47,48,46,49,,,41,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,41,2014
+HAZARD,Hazardous Materials,2,9,4,18,1,1,5,20,,,41,2014
+HAZARD,Other HazMat Responses,8,8,6,42,3,8,2,10,,,41,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),20,96,12,66,7,26,15,68,,,41,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,41,2014
+FALSE ALARM,Other False alarms,46,69,39,74,36,51,28,49,,,41,2014
+TRAINING,Training ,,,,,,,,,,,41,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,41,2014
+TRAINING,Other events,,,,,,,,,,,41,2014
+INSPECTION,Initial Inspections,,,,,,,,,37,,41,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,145,,41,2014
+INSPECTION,Registrations,,,,,,,,,,,41,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,41,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,41,2014
+FINES,Fines Imposed,,,,,,,,,,,41,2014
+FINES,Fines collected,,,,,,,,,,,41,2014
+RESIDENTIAL,Private Dwellings,,,1,4,1,4,1,8,,,42,2014
+RESIDENTIAL,Apartments,2,8,3,17,1,4,5,53,,,42,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,42,2014
+RESIDENTIAL,All Other Residential,1,4,,,,,,,,,42,2014
+STRUCTURE FIRE,Public Assembly,,,1,9,1,4,,,,,42,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,7,,,,,,,42,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,42,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,42,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,42,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,42,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,42,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,2,6,,,,,42,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,42,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,42,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,42,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,9,,,,,,,42,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,42,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,47,57,103,111,34,45,62,68,,,42,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,42,2014
+HAZARD,Hazardous Materials,4,11,7,50,1,1,5,39,,,42,2014
+HAZARD,Other HazMat Responses,4,20,4,21,6,33,3,16,,,42,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),14,71,10,49,4,23,17,85,,,42,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,42,2014
+FALSE ALARM,Other False alarms,37,54,31,64,21,58,30,50,,,42,2014
+TRAINING,Training ,,,,,,,,,,,42,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,42,2014
+TRAINING,Other events,,,,,,,,,,,42,2014
+INSPECTION,Initial Inspections,,,,,,,,,60,,42,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,114,,42,2014
+INSPECTION,Registrations,,,,,,,,,,,42,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,3,,,,,,,,,42,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,42,2014
+FINES,Fines Imposed,,,,,,,,,,,42,2014
+FINES,Fines collected,,,,,,,,,,,42,2014
+RESIDENTIAL,Private Dwellings,1,10,5,42,1,14,,,,,43,2014
+RESIDENTIAL,Apartments,5,27,3,20,2,16,3,17,,,43,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,43,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,43,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,43,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,43,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,43,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,4,,,,,43,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,43,2014
+STRUCTURE FIRE,Storage in Structures,,,1,4,,,,,,,43,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,43,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,,,,,,,43,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,43,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,43,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,43,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,43,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,43,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,35,37,76,82,42,48,46,53,,,43,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,43,2014
+HAZARD,Hazardous Materials,1,1,10,35,3,10,7,29,,,43,2014
+HAZARD,Other HazMat Responses,4,14,3,9,8,17,8,35,,,43,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),20,89,13,59,9,39,19,93,,,43,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,43,2014
+FALSE ALARM,Other False alarms,34,71,36,62,30,59,19,45,,,43,2014
+TRAINING,Training ,,,,,,,,,,,43,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,43,2014
+TRAINING,Other events,,,,,,,,,,,43,2014
+INSPECTION,Initial Inspections,,,,,,,,,36,,43,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,129,,43,2014
+INSPECTION,Registrations,,,,,,,,,,,43,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,43,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,43,2014
+FINES,Fines Imposed,,,,,,,,,,,43,2014
+FINES,Fines collected,,,,,,,,,,,43,2014
+RESIDENTIAL,Private Dwellings,2,13,2,8,1,4,,,,,44,2014
+RESIDENTIAL,Apartments,5,29,2,9,4,29,,,,,44,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,44,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,23,,,44,2014
+STRUCTURE FIRE,Public Assembly,,,1,1,,,,,,,44,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,2,14,1,7,,,44,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,44,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,4,,,,,44,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,44,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,44,2014
+STRUCTURE FIRE,Other Structures,,,,,2,3,,,,,44,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,1,3,,,,,44,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,44,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",1,2,1,1,,,,,,,44,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,44,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,44,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,44,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,43,45,100,106,30,34,40,45,,,44,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,44,2014
+HAZARD,Hazardous Materials,2,16,9,27,7,7,2,9,,,44,2014
+HAZARD,Other HazMat Responses,2,5,4,17,3,4,3,11,,,44,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),14,60,15,61,7,34,16,72,,,44,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,44,2014
+FALSE ALARM,Other False alarms,38,68,28,46,32,61,31,77,,,44,2014
+TRAINING,Training ,,,,,,,,,,,44,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,44,2014
+TRAINING,Other events,,,,,,,,,,,44,2014
+INSPECTION,Initial Inspections,,,,,,,,,55,,44,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,136,,44,2014
+INSPECTION,Registrations,,,,,,,,,,,44,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,44,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,44,2014
+FINES,Fines Imposed,,,,,,,,,,,44,2014
+FINES,Fines collected,,,,,,,,,,,44,2014
+RESIDENTIAL,Private Dwellings,1,8,2,18,2,14,,,,,45,2014
+RESIDENTIAL,Apartments,4,24,3,27,3,27,2,13,,,45,2014
+RESIDENTIAL,Hotels and Motels,1,11,,,,,,,,,45,2014
+RESIDENTIAL,All Other Residential,1,4,,,,,,,,,45,2014
+STRUCTURE FIRE,Public Assembly,2,8,,,,,,,,,45,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,45,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,45,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,45,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,45,2014
+STRUCTURE FIRE,Storage in Structures,1,1,,,,,,,,,45,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,45,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,1,10,,,45,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,45,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,45,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,,,,,,,,,45,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,1,1,,,45,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,45,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,52,58,87,99,38,41,44,55,,,45,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,45,2014
+HAZARD,Hazardous Materials,1,1,4,21,,,3,4,,,45,2014
+HAZARD,Other HazMat Responses,2,12,4,23,1,1,3,11,,,45,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),25,116,12,60,19,102,16,67,,,45,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,45,2014
+FALSE ALARM,Other False alarms,41,65,33,63,44,69,42,70,,,45,2014
+TRAINING,Training ,,,,,,,,,,,45,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,45,2014
+TRAINING,Other events,,,,,,,,,,,45,2014
+INSPECTION,Initial Inspections,,,,,,,,,36,,45,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,139,,45,2014
+INSPECTION,Registrations,,,,,,,,,,,45,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,45,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,45,2014
+FINES,Fines Imposed,,,,,,,,,,,45,2014
+FINES,Fines collected,,,,,,,,,,,45,2014
+RESIDENTIAL,Private Dwellings,1,8,3,25,,,,,,,46,2014
+RESIDENTIAL,Apartments,4,16,4,26,1,21,5,37,,,46,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,46,2014
+RESIDENTIAL,All Other Residential,2,8,,,1,8,2,12,,,46,2014
+STRUCTURE FIRE,Public Assembly,1,4,1,7,2,13,,,,,46,2014
+STRUCTURE FIRE,Schools and Colleges,1,4,,,,,,,,,46,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,46,2014
+STRUCTURE FIRE,Stores and Offices,,,1,9,,,,,,,46,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,46,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,46,2014
+STRUCTURE FIRE,Other Structures,1,1,,,,,,,,,46,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,46,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,46,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,46,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,1,1,,,46,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,3,,,,,,,46,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,46,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,35,37,87,92,38,45,63,69,,,46,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,46,2014
+HAZARD,Hazardous Materials,1,8,6,20,4,11,1,1,,,46,2014
+HAZARD,Other HazMat Responses,1,4,6,33,2,2,2,3,,,46,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,85,20,91,10,59,20,90,,,46,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,46,2014
+FALSE ALARM,Other False alarms,42,64,33,75,44,52,25,47,,,46,2014
+TRAINING,Training ,,,,,,,,,,,46,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,46,2014
+TRAINING,Other events,,,,,,,,,,,46,2014
+INSPECTION,Initial Inspections,,,,,,,,,64,,46,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,81,,46,2014
+INSPECTION,Registrations,,,,,,,,,,,46,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,3,6,,,,,,,,,46,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,46,2014
+FINES,Fines Imposed,,,,,,,,,,,46,2014
+FINES,Fines collected,,,,,,,,,,,46,2014
+RESIDENTIAL,Private Dwellings,2,18,4,31,,,1,9,,,47,2014
+RESIDENTIAL,Apartments,2,16,7,46,4,16,5,29,,,47,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,47,2014
+RESIDENTIAL,All Other Residential,,,,,,,,,,,47,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,47,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,47,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,47,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,47,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,47,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,47,2014
+STRUCTURE FIRE,Other Structures,,,,,1,1,,,,,47,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,47,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,47,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,47,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,,,,,1,1,,,47,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,9,1,11,,,,,47,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,1,4,,,,,47,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,37,39,94,101,35,38,27,28,,,47,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,47,2014
+HAZARD,Hazardous Materials,4,18,8,11,4,18,5,20,,,47,2014
+HAZARD,Other HazMat Responses,8,51,7,20,1,1,6,15,,,47,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),22,99,17,70,12,64,20,96,,,47,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,47,2014
+FALSE ALARM,Other False alarms,41,111,36,90,29,46,39,98,,,47,2014
+TRAINING,Training ,,,,,,,,,,,47,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,47,2014
+TRAINING,Other events,,,,,,,,,,,47,2014
+INSPECTION,Initial Inspections,,,,,,,,,67,,47,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,75,,47,2014
+INSPECTION,Registrations,,,,,,,,,,,47,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,13,19,,,,,,,,,47,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,47,2014
+FINES,Fines Imposed,,,,,,,,,,,47,2014
+FINES,Fines collected,,,,,,,,,,,47,2014
+RESIDENTIAL,Private Dwellings,,,3,23,1,4,2,11,,,48,2014
+RESIDENTIAL,Apartments,5,25,5,30,6,24,4,26,,,48,2014
+RESIDENTIAL,Hotels and Motels,1,11,,,,,1,4,,,48,2014
+RESIDENTIAL,All Other Residential,3,12,2,9,,,,,,,48,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,48,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,1,15,,,48,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,48,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,1,12,,,48,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,48,2014
+STRUCTURE FIRE,Storage in Structures,,,1,4,,,,,,,48,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,48,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,2,,,1,3,,,,,48,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,48,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,48,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,48,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,48,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,48,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,34,39,107,113,25,29,39,41,,,48,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,48,2014
+HAZARD,Hazardous Materials,4,15,13,66,5,22,4,26,,,48,2014
+HAZARD,Other HazMat Responses,7,29,7,28,1,3,4,21,,,48,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),21,110,23,107,10,41,10,48,,,48,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,48,2014
+FALSE ALARM,Other False alarms,25,55,38,98,30,69,30,65,,,48,2014
+TRAINING,Training ,,,,,,,,,,,48,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,48,2014
+TRAINING,Other events,,,,,,,,,,,48,2014
+INSPECTION,Initial Inspections,,,,,,,,,54,,48,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,89,,48,2014
+INSPECTION,Registrations,,,,,,,,,,,48,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,48,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,48,2014
+FINES,Fines Imposed,,,,,,,,,,,48,2014
+FINES,Fines collected,,,,,,,,,,,48,2014
+RESIDENTIAL,Private Dwellings,,,7,72,1,15,2,18,,,49,2014
+RESIDENTIAL,Apartments,2,13,1,9,3,12,5,31,,,49,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,49,2014
+RESIDENTIAL,All Other Residential,,,,,1,4,2,14,,,49,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,49,2014
+STRUCTURE FIRE,Schools and Colleges,,,1,7,1,7,,,,,49,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,49,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,1,2,,,49,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,49,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,49,2014
+STRUCTURE FIRE,Other Structures,1,15,1,9,,,,,,,49,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,1,2,,,,,49,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,49,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,49,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,49,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,49,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,49,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,42,43,104,118,40,40,51,54,,,49,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,49,2014
+HAZARD,Hazardous Materials,5,32,6,20,3,10,3,20,,,49,2014
+HAZARD,Other HazMat Responses,3,8,7,15,7,38,,,,,49,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),19,83,10,49,12,53,17,83,,,49,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,49,2014
+FALSE ALARM,Other False alarms,45,59,31,72,31,46,21,33,,,49,2014
+TRAINING,Training ,,,,,,,,,,,49,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,49,2014
+TRAINING,Other events,,,,,,,,,,,49,2014
+INSPECTION,Initial Inspections,,,,,,,,,35,,49,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,42,,49,2014
+INSPECTION,Registrations,,,,,,,,,,,49,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,5,5,,,,,,,,,49,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,49,2014
+FINES,Fines Imposed,,,,,,,,,,,49,2014
+FINES,Fines collected,,,,,,,,,,,49,2014
+RESIDENTIAL,Private Dwellings,,,7,66,1,9,2,18,,,50,2014
+RESIDENTIAL,Apartments,2,11,2,8,1,11,3,20,,,50,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,50,2014
+RESIDENTIAL,All Other Residential,1,4,,,,,,,,,50,2014
+STRUCTURE FIRE,Public Assembly,,,1,9,,,,,,,50,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,50,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,1,4,,,,,,,50,2014
+STRUCTURE FIRE,Stores and Offices,,,,,1,4,,,,,50,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,50,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,50,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,10,,,50,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,1,2,,,,,,,50,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,50,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,50,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,50,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,50,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,50,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,47,53,95,96,43,47,64,67,,,50,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,50,2014
+HAZARD,Hazardous Materials,3,23,4,11,3,10,1,8,,,50,2014
+HAZARD,Other HazMat Responses,3,25,5,25,4,7,5,23,,,50,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),24,110,13,64,9,50,11,56,,,50,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,50,2014
+FALSE ALARM,Other False alarms,47,60,27,44,18,38,32,98,,,50,2014
+TRAINING,Training ,,,,,,,,,,,50,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,50,2014
+TRAINING,Other events,,,,,,,,,,,50,2014
+INSPECTION,Initial Inspections,,,,,,,,,96,,50,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,47,,50,2014
+INSPECTION,Registrations,,,,,,,,,,,50,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,4,4,,,,,,,,,50,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,50,2014
+FINES,Fines Imposed,,,,,,,,,,,50,2014
+FINES,Fines collected,,,,,,,,,,,50,2014
+RESIDENTIAL,Private Dwellings,,,,,1,10,1,9,,,51,2014
+RESIDENTIAL,Apartments,6,41,,,4,30,3,28,,,51,2014
+RESIDENTIAL,Hotels and Motels,1,4,,,,,,,,,51,2014
+RESIDENTIAL,All Other Residential,,,,,,,1,7,,,51,2014
+STRUCTURE FIRE,Public Assembly,2,6,3,23,1,4,,,,,51,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,1,9,,,51,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,51,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,,,,,51,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,51,2014
+STRUCTURE FIRE,Storage in Structures,,,1,19,,,,,,,51,2014
+STRUCTURE FIRE,Other Structures,,,,,,,1,9,,,51,2014
+NON-STRUCTURE FIRE,Highway vehicles,1,4,1,2,,,,,,,51,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,51,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,51,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",,,,,,,,,,,51,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,,,,,,,,,51,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,51,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,42,49,98,104,43,43,48,54,,,51,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,51,2014
+HAZARD,Hazardous Materials,2,3,9,60,2,9,1,1,,,51,2014
+HAZARD,Other HazMat Responses,3,8,6,22,8,26,5,36,,,51,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),25,99,13,60,9,33,15,73,,,51,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,51,2014
+FALSE ALARM,Other False alarms,47,60,36,99,37,45,18,34,,,51,2014
+TRAINING,Training ,,,,,,,,,,,51,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,51,2014
+TRAINING,Other events,,,,,,,,,,,51,2014
+INSPECTION,Initial Inspections,,,,,,,,,91,,51,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,53,,51,2014
+INSPECTION,Registrations,,,,,,,,,,,51,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,,,,,,,,,,,51,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,51,2014
+FINES,Fines Imposed,,,,,,,,,,,51,2014
+FINES,Fines collected,,,,,,,,,,,51,2014
+RESIDENTIAL,Private Dwellings,,,5,47,4,44,1,1,,,52,2014
+RESIDENTIAL,Apartments,7,38,,,2,8,5,32,,,52,2014
+RESIDENTIAL,Hotels and Motels,,,,,,,,,,,52,2014
+RESIDENTIAL,All Other Residential,2,8,2,8,,,,,,,52,2014
+STRUCTURE FIRE,Public Assembly,,,,,,,,,,,52,2014
+STRUCTURE FIRE,Schools and Colleges,,,,,,,,,,,52,2014
+STRUCTURE FIRE,Health Care and Penal Institutions,,,,,,,,,,,52,2014
+STRUCTURE FIRE,Stores and Offices,,,,,,,1,5,,,52,2014
+STRUCTURE FIRE,"Industry, Utility, Defense, Labs, Manuf.",,,,,,,,,,,52,2014
+STRUCTURE FIRE,Storage in Structures,,,,,,,,,,,52,2014
+STRUCTURE FIRE,Other Structures,,,,,,,,,,,52,2014
+NON-STRUCTURE FIRE,Highway vehicles,,,,,,,,,,,52,2014
+NON-STRUCTURE FIRE,Other Vehicles,,,,,,,,,,,52,2014
+NON-STRUCTURE FIRE,"Outside of Structures with value, not vehic.",,,,,,,,,,,52,2014
+NON-STRUCTURE FIRE,"Brush, Grass, Wildland, (No Value)",1,1,,,,,,,,,52,2014
+NON-STRUCTURE FIRE,"Rubbish, Dumpsters (No Value)",,,1,9,,,,,,,52,2014
+NON-STRUCTURE FIRE,All Other Fires,,,,,,,,,,,52,2014
+EMERGENCY RESPONSE,Emergency Medical Responses,35,37,96,97,45,50,34,35,,,52,2014
+EMERGENCY RESPONSE,Other Rescue,,,,,,,,,,,52,2014
+HAZARD,Hazardous Materials,4,29,5,41,1,1,3,10,,,52,2014
+HAZARD,Other HazMat Responses,8,22,4,4,3,11,2,2,,,52,2014
+FALSE ALARM,False Alarms (system malfunction/accidental),16,65,15,77,12,57,8,35,,,52,2014
+FALSE ALARM,False Alarms (intentional/malicious),,,,,,,,,,,52,2014
+FALSE ALARM,Other False alarms,38,55,23,52,17,41,20,24,,,52,2014
+TRAINING,Training ,,,,,,,,,,,52,2014
+TRAINING,Fire safety/prevention events,,,,,,,,,,,52,2014
+TRAINING,Other events,,,,,,,,,,,52,2014
+INSPECTION,Initial Inspections,,,,,,,,,103,,52,2014
+INSPECTION,Re-inspections/follow ups,,,,,,,,,47,,52,2014
+INSPECTION,Registrations,,,,,,,,,,,52,2014
+MUTUAL AID,Mutual Aid Served Outide Jersey City,1,2,,,,,,,,,52,2014
+MUTUAL AID,Mutual Aid Requested with Jersey City,,,,,,,,,,,52,2014
+FINES,Fines Imposed,,,,,,,,,,,52,2014
+FINES,Fines collected,,,,,,,,,,,52,2014
